@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="R7iCf-T0vU6w5N8_E8KCCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.cambridgema.gov/cpl/cambridgepubliclibrary/cambridgepubliclibrary/suggestatitle" DesignTimeRectangle="643, 863, 506, 24" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'INPUT Primary_formplace…'" FullSelectorArgument="&lt;webctrl tag='INPUT' aaname='Your library card number must be 14 digits' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' aaname='Your library card number must be 14 digits' /&gt;" Guid="8ff73fb4-a715-41f1-a1be-b927f58bb289" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Suggest a Purchase for the Collection - Library - Home' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="390, 863, 253, 25" ElementType="Text" FriendlyName="'Your library card number'" FullSelectorArgument="&lt;webctrl tag='LABEL' innertext='Your library card number' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' innertext='Your library card number' check:text='Your library card number' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="69b3a2990258b1c67f196d4977501898.png" xmlns="">05swKHMbn_UWSI7CtIgAQyg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

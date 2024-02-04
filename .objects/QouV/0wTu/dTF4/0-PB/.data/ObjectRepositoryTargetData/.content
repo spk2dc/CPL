@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PVia6w3QyE2QYUFeDmHPXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.cambridgema.gov/cpl/cambridgepubliclibrary/cambridgepubliclibrary/suggestatitle" DesignTimeRectangle="643, 848, 506, 24" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'INPUT Primary_formplace…'" FullSelectorArgument="&lt;webctrl name='ctl00$Primary$formplaceholder_0$TxtAuthor' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl name='ctl00$Primary$formplaceholder_0$TxtAuthor' tag='INPUT' type='text' /&gt;" Guid="811fa0a0-d532-4d11-93ee-26cbd383ec2b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Suggest a Purchase for the Collection - Library - Home' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="390, 848, 253, 25" ElementType="Text" FriendlyName="'Author (if applicable)'" FullSelectorArgument="&lt;webctrl tag='LABEL' innertext='Author (if applicable)' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' innertext='Author (if applicable)' check:text='Author (if applicable)' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5fafbbbf919963a8eb1b3292293f6938.png" xmlns="">0XOxhN3p7WECyy8VPG9rUqg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

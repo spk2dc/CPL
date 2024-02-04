@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fVUYlqrHOkSXQLHztxXENw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.cambridgema.gov/cpl/cambridgepubliclibrary/cambridgepubliclibrary/suggestatitle" DesignTimeRectangle="647, 1108, 304, 17" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'unchecked'" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='LABEL' innertext='EAudiobook for the Overdrive Collection' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='LABEL' innertext='EAudiobook for the Overdrive Collection' check:text='unchecked' /&gt;" Guid="59f26f99-597d-4abd-94c2-315b920241df" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Suggest a Purchase for the Collection - Library - Home' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="390, 866, 253, 25" ElementType="Text" FriendlyName="'Format'" FullSelectorArgument="&lt;webctrl tag='SPAN' innertext='Format' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SPAN' innertext='Format' check:text='Format' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="799691f10bd7c39dedc9c003e1b15440.png" xmlns="">05RYcQna9sEi8a_xxng3SbA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

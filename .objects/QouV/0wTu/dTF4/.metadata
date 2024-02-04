@@ -1,0 +1,15 @@
+﻿{
+  "Name": "suggest",
+  "Type": "Screen",
+  "Id": "dTF4Xx9fUU2JYqIc-atTBw",
+  "Reference": "zZAei72T_kef0CtgypXwGQ/dTF4Xx9fUU2JYqIc-atTBw",
+  "ParentRef": "zZAei72T_kef0CtgypXwGQ/0wTuU7-KnkG0oHT3U6wSvg",
+  "Created": "2024-02-04T18:16:01.6675837Z",
+  "Updated": "2024-02-04T18:16:23.6319294Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Dj_LMjcsQU2pe0Kz5uv03A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.cambridgema.gov/cpl/cambridgepubliclibrary/cambridgepubliclibrary/suggestatitle" DesignTimeRectangle="1074, 1072, 90, 29" DesignTimeScaleFactor="1.25" ElementType="Button" FriendlyName="'Submit'" FullSelectorArgument="&lt;webctrl type='submit' aaname='Submit' /&gt;" FuzzySelectorArgument="&lt;webctrl type='submit' aaname='Submit' check:text='Submit' /&gt;" Guid="c6a77589-9c6c-4a58-b01b-a4eab0e4be83" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Suggest a Purchase for the Collection - Library - Home' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="13530e51067ecb95875778f6985231dd.png" xmlns="">02avQryb88Eie6pFIF89cmA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

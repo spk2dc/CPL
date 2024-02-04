@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1JvNjSx2HUWUqOT113Pcug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.cambridgema.gov/cpl/cambridgepubliclibrary/cambridgepubliclibrary/suggestatitle" DesignTimeRectangle="643, 901, 506, 24" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'INPUT Primary_formplace…'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='email' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='email' /&gt;" Guid="cd1d84d5-6903-4abc-9f01-ce251f1efb12" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Suggest a Purchase for the Collection - Library - Home' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="390, 901, 253, 25" ElementType="Text" FriendlyName="'Your email address'" FullSelectorArgument="&lt;webctrl tag='LABEL' innertext='Your email address' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' innertext='Your email address' check:text='Your email address' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b098d8fa8676969eeec511cd202b830f.png" xmlns="">0hlZoHxaYi0KE6gyDmh_H0Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

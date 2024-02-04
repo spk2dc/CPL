@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="uV_09Nqg-U-5eKjGr1cHJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABeSURBVDhPYxg84KKQ4/+FCxeCMVQIA8DkQWqhQggAMwAEsBmCLEfQABBANgRdnCgDQADExyY2agAeA9ANQTcAphmrASCAbgiyAQQ1wwCyIciYKM3IAKaBZI10BgwMAH3IaqB9yZQyAAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' title='Suggest a Purchase for the Collection - Library - Home' /&gt;" Title="Suggest a Purchase for the Collection - Library - Home" Url="https://www.cambridgema.gov/cpl/cambridgepubliclibrary/cambridgepubliclibrary/suggestatitle">
+      <imageRef attrName="InformativeScreenshot" originalValue="512cb120c5292d375969d1c01694e12f.jpg" xmlns="">0Eso4tJ8L-Ui0mDaRTNsSfQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

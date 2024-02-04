@@ -1,0 +1,16 @@
+﻿{
+  "Name": "format",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "OwgYeLXeiEOAqcHSttJZ_w",
+  "Reference": "zZAei72T_kef0CtgypXwGQ/OwgYeLXeiEOAqcHSttJZ_w",
+  "ParentRef": "zZAei72T_kef0CtgypXwGQ/dTF4Xx9fUU2JYqIc-atTBw",
+  "Created": "2024-02-04T18:31:38.3487118Z",
+  "Updated": "2024-02-04T18:33:10.7394747Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

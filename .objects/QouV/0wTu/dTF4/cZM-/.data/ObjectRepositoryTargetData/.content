@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="myChXiP7V0i7qVxAQjWznQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.cambridgema.gov/cpl/cambridgepubliclibrary/cambridgepubliclibrary/suggestatitle" DesignTimeRectangle="643, 811, 506, 24" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'INPUT Primary_formplace…'" FullSelectorArgument="&lt;webctrl name='ctl00$Primary$formplaceholder_0$TxtTitle' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl name='ctl00$Primary$formplaceholder_0$TxtTitle' tag='INPUT' type='text' /&gt;" Guid="cca53967-9a13-4879-a4fe-0dfb91622150" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Suggest a Purchase for the Collection - Library - Home' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="390, 811, 253, 25" ElementType="Text" FriendlyName="'Title'" FullSelectorArgument="&lt;webctrl tag='LABEL' innertext='Title' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' innertext='Title' check:text='Title' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="42eeb221038ffd70b78e59a002bd70ff.png" xmlns="">059wM6wDZDUWtTJufVjtMnw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
